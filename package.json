@@ -11,7 +11,7 @@
   "description": "Automata is a Deterministic Finite State Machine automata framework featuring: a JSON based automata creation, timed transitions, sub-states, guards, FSM registry, etc.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hyperandroid/Automata.git"
+    "url": "git://github.com/Gillespie59/Automata.git"
   },
   "dependencies": {},
   "devDependencies": {},
